@@ -1,6 +1,7 @@
 ## Hey there! 👋
 
 I'm a 1st year *Computer Science* student studying at Adelaide University. 
+Currently trying to race against AI so I won't be replaced so easily! 💪
 <!--
 **SengPhank/SengPhank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
