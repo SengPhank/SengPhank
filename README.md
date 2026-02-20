@@ -7,10 +7,6 @@
 About Me:
 <br>
 Discovering a new way of expressing my curiosity at 15, I began developing mini-projects in my own time using Python. My passion for computational thinking allowed me to convert creativity into code!
-
-<p align="center">
-  <img src="https://github.com/SengPhank/Matlab-MazeGenerator/blob/main/Resources/MazeGif.gif" width="300">
-</p>
 <!--
 **SengPhank/SengPhank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
