@@ -2,6 +2,7 @@
 
 - I'm a 2nd year *Computer Science* student studying at Adelaide University.
 - I have experience mainly with languages C++ and Python
+- My current interests are ML, Reverse engineering, and Chess (1800)♟️
 - Currently trying to race against AI so I won't be replaced so easily! 💪
 
 About Me:
